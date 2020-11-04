@@ -9,8 +9,7 @@ Notes and exercices from the book by Dr. Charles R. Severance.
 -    *Words and sentences*
 -    *Interpreter and compiler* 
 -    *Writing a program*
--    *Errors*
--    *Debugging*
+-    *Errors and debugging*
 
 ### 2. Variables, expressions, and statements
 
