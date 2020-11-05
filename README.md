@@ -11,7 +11,14 @@ Notes and exercices from the book by Dr. Charles R. Severance.
 -    *Writing a program*
 -    *Errors and debugging*
 
-### 2. Variables, expressions, and statements
+### 2. Variables
+
+-    *Values and Types*  
+-    *Variables*
+-    *Statements*  
+-    *Operators and operands*  
+-    *Comments*  
+-    *Entering input*  
 
 ### 3. Conditional execution
 
