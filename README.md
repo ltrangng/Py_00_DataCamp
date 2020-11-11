@@ -22,7 +22,21 @@ Notes and exercices from the book by Dr. Charles R. Severance.
 
 ### 3. Conditional execution
 
+-    *Boolean expressions*  
+-    *Logical operators*  
+-    *Conditional execution*  
+-    *Try and Except*  
+-    *Short-circuit evaluation of logical expressions*
+
 ### 4. Functions
+
+-    *Built-in functions*  
+-    *Conversion functions*  
+-    *Math functions*  
+-    *Random numbers*  
+-    *Short-circuit evaluation of logical expressions*  
+-    *Writing functions*  
+-    *Parameters and arguments*
 
 ### 5. Iteration
 
