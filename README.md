@@ -40,6 +40,12 @@ Notes and exercices from the book by Dr. Charles R. Severance.
 
 ### 5. Iteration
 
+-    *Updating variables*  
+-    *The while statement*  
+-    *Infinite loops*  
+-    *For loops*  
+-    *Loop patterns*
+
 ### 6. Strings
 
 ### 7. Files
