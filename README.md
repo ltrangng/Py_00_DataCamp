@@ -48,6 +48,12 @@ Notes and exercices from the book by Dr. Charles R. Severance.
 
 ### 6. Strings
 
+-    *String indexes*  
+-    *String slices*  
+-    *Strings are immutable objects*  
+-    *Looping and counting*  
+-    *String operators*
+
 ### 7. Files
 
 ### 8. Lists
